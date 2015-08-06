@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(32, 32, 32);
+  color: whitesmoke;
+  text-align: center;
+}
+
+#banner {
+  width: 500px;
+}
