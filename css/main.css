@@ -7,3 +7,15 @@ body {
 #banner {
   width: 500px;
 }
+
+.rumble-header h2 {
+  display: inline-block;
+}
+
+#player {
+  padding-right: 300px;
+}
+
+.rumble-header h2:last-child {
+  padding-left: 300px;
+}
